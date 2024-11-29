@@ -24,7 +24,7 @@
     "env-cmd": "^9.0.3",
     "express": "^4.17.1",
     "get-docker-host": "^1.0.3",
-    "mongoose": "^5.6.10",
+    "mongoose": "^5.7.5",
     "mqtt": "^3.0.0",
     "nodemon": "^1.19.1"
   },
